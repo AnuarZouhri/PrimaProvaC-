@@ -1,0 +1,3 @@
+D:/Medicine/cmake-build-debug/CMakeFiles/Medicine.dir
+D:/Medicine/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Medicine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
